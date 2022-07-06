@@ -23,7 +23,7 @@
         "wikimedia/toolforge-bundle": "^0.18.0"
     },
     "require-dev": {
-        "mediawiki/minus-x": "^0.3.2",
+        "mediawiki/minus-x": "^1.1.1",
         "slevomat/coding-standard": "^5.0",
         "symfony/stopwatch": "^4.4",
         "symfony/var-dumper": "^4.4",
